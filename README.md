@@ -1,5 +1,5 @@
 # 👨‍💻 Projetos DEV em DOBRO
-## Repositório dedicado aos projetos desenvolvidos durante o evento "Semana do Zero ao Programador Contratado" dos gêmeos
+## Repositório dedicado aos projetos desenvolvidos durante o evento "Semana do Zero ao Programador Contratado" dos gêmeos 🧙🏻‍♂️🧙🏻‍♂️
 
 ### 🐉 01 - Dragões Game of Thrones ( Agosto/2024 )
 
