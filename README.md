@@ -15,3 +15,8 @@
 
 ### 🐲🟠 03 - Dragon Ball ( Abril/2025 )
 
+- Conceitos de HTML, CSS e JavaScript
+- Imagens utilizadas não retratam os personagens "reais" de Dragon Ball
+- Alusão à série Dragon Ball trazendo personagens para o mundo DEV
+
+
