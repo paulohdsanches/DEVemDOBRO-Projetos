@@ -43,6 +43,28 @@
 - Criação de gradiente para o background ([cssgradient.io](https://cssgradient.io/))
 
 ### Nível 03 - Não comece sem ele: Te damos o MAPADEV (04/04/2025)
+- Depoimentos de ex-alunos do curso Devquest
+- Entrega do MAPADEV
+- Apresentação do mapa passo a passo
+- Apresentação do curso Devquest
+
+### Live do Projeto 03 - JavaScript: Finalizando o projeto
+- Apresentação do curso Devquest
+- Liberação de grupo pré-inscrição
+- Voltamos ao CSS para criar o arquivo responsivo.css
+- Código completo do responsivo.css
+- Criação do arquivo index.js
+- Código completo do index.js
+- Finalização do projeto
+
+### Nível 04 - Live de encerramento
+- Apresentação do curso Devquest
+- Depoimentos de ex-alunos do curso Devquest
+- Abertura das matrículas no curso Devquest
+- Como foram geradas as imagens do projeto ([Adapta - Claude IA](https://adapta.org/))
+- Refatorar o código index.js com uso de IA
+- Publicar projeto no Github
+- Sorteio de 1 notebook no valor de R$ 4.000,00
 
 
 
